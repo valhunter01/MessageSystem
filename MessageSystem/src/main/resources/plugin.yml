@@ -1,0 +1,9 @@
+name: MessageSystem
+version: '1.0'
+main: me.VAL.messageSystem.MessageSystem
+api-version: '1.21'
+author: [VALHUNTER]
+description: A full Message system.
+commands:
+  message:
+  reply:
